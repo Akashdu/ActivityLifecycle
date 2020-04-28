@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840589568155",
+    "firebase_url": "https://activitylifecycle-c1de4.firebaseio.com",
+    "project_id": "activitylifecycle-c1de4",
+    "storage_bucket": "activitylifecycle-c1de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840589568155:android:4e5ea5923358b7473afe3e",
+        "android_client_info": {
+          "package_name": "com.akash.activitylifecycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840589568155-nghecc4j3preer3ebu72dujnrumn0voi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMD8paj2dBdL_h570LRVR-iN8E9Z4vIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840589568155-nghecc4j3preer3ebu72dujnrumn0voi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
